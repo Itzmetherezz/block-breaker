@@ -1,0 +1,10 @@
+C:\Users\itzth\source\repos\BRICK BREAKER\BRICK BREAKER\bin\Debug\BRICK BREAKER.exe.config
+C:\Users\itzth\source\repos\BRICK BREAKER\BRICK BREAKER\bin\Debug\BRICK BREAKER.exe
+C:\Users\itzth\source\repos\BRICK BREAKER\BRICK BREAKER\bin\Debug\BRICK BREAKER.pdb
+C:\Users\itzth\source\repos\BRICK BREAKER\BRICK BREAKER\obj\Debug\BRICK BREAKER.csproj.AssemblyReference.cache
+C:\Users\itzth\source\repos\BRICK BREAKER\BRICK BREAKER\obj\Debug\BRICK_BREAKER.Form1.resources
+C:\Users\itzth\source\repos\BRICK BREAKER\BRICK BREAKER\obj\Debug\BRICK_BREAKER.Properties.Resources.resources
+C:\Users\itzth\source\repos\BRICK BREAKER\BRICK BREAKER\obj\Debug\BRICK BREAKER.csproj.GenerateResource.cache
+C:\Users\itzth\source\repos\BRICK BREAKER\BRICK BREAKER\obj\Debug\BRICK BREAKER.csproj.CoreCompileInputs.cache
+C:\Users\itzth\source\repos\BRICK BREAKER\BRICK BREAKER\obj\Debug\BRICK BREAKER.exe
+C:\Users\itzth\source\repos\BRICK BREAKER\BRICK BREAKER\obj\Debug\BRICK BREAKER.pdb
